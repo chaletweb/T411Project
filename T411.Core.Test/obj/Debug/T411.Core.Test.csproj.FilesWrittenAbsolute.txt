@@ -3,6 +3,7 @@
 /Users/Eric/Projects/T411Project/T411.Core.Test/bin/Debug/T411.Core.Test.dll
 /Users/Eric/Projects/T411Project/T411.Core.Test/obj/Debug/T411.Core.Test.dll
 /Users/Eric/Projects/T411Project/T411.Core.Test/obj/Debug/T411.Core.Test.dll.mdb
+/Users/Eric/Projects/T411Project/T411.Core.Test/bin/Debug/nunit.framework.dll
 /Users/Eric/Projects/T411Project/T411.Core.Test/bin/Debug/T411.Api.dll
 /Users/Eric/Projects/T411Project/T411.Core.Test/bin/Debug/T411.Api.dll.mdb
 /Users/Eric/Projects/T411Project/T411.Core.Test/bin/Debug/Newtonsoft.Json.dll
