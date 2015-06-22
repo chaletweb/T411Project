@@ -1,0 +1,7 @@
+c:\users\rico\documents\visual studio 2012\Projects\T411Api\T411Api\bin\Debug\T411Api.dll
+c:\users\rico\documents\visual studio 2012\Projects\T411Api\T411Api\bin\Debug\T411Api.pdb
+c:\users\rico\documents\visual studio 2012\Projects\T411Api\T411Api\bin\Debug\nunit.framework.dll
+c:\users\rico\documents\visual studio 2012\Projects\T411Api\T411Api\bin\Debug\nunit.framework.xml
+c:\users\rico\documents\visual studio 2012\Projects\T411Api\T411Api\obj\Debug\T411Api.csprojResolveAssemblyReference.cache
+c:\users\rico\documents\visual studio 2012\Projects\T411Api\T411Api\obj\Debug\T411Api.dll
+c:\users\rico\documents\visual studio 2012\Projects\T411Api\T411Api\obj\Debug\T411Api.pdb

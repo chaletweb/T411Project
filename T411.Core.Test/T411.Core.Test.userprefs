@@ -1,0 +1,47 @@
+﻿<Properties StartupItem="T411.Core.Test.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../T411Api/T411Api/Wrapper/WebClientWrapper.cs">
+    <Files>
+      <File FileName="Test.cs" Line="13" Column="1" />
+      <File FileName="../T411Api/T411Api/ApiConnector.cs" Line="24" Column="9" />
+      <File FileName="../T411Api/T411Api/WebRequestCreate.cs" Line="1" Column="1" />
+      <File FileName="../T411Api/T411Api/Converter.cs" Line="30" Column="35" />
+      <File FileName="../T411Api/T411Api/FileConnector.cs" Line="1" Column="1" />
+      <File FileName="../T411Api/T411Api/Wrapper/IWebClientWrapper.cs" Line="9" Column="9" />
+      <File FileName="../T411Api/T411Api/Wrapper/WebClientWrapper.cs" Line="35" Column="1" />
+      <File FileName="../T411Api/T411Api/TokenFactory.cs" Line="26" Column="1" />
+      <File FileName="../T411Api/T411Api/HttpConnector.cs" Line="45" Column="36" />
+      <File FileName="packages.config" Line="1" Column="1" />
+      <File FileName="../T411Api/T411Api/Token.cs" Line="1" Column="1" />
+      <File FileName="../T411Api/T411Api/IHttpConnector.cs" Line="1" Column="1" />
+      <File FileName="../T411Api/T411Api/IApiConnector.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="T411.Core.Test" expanded="True">
+            <Node name="T411.Core.Test" expanded="True">
+              <Node name="T411" expanded="True">
+                <Node name="Core" expanded="True">
+                  <Node name="Test" expanded="True">
+                    <Node name="Test" expanded="True">
+                      <Node name="ShouldConnectMe" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Eric/Projects/T411Api/T411Api/TokenFactory.cs" line="27" column="1" />
+      <Breakpoint file="/Users/Eric/Projects/T411.Core.Test/Test.cs" line="13" column="1" />
+      <Breakpoint file="/Users/Eric/Projects/T411Api/T411Api/Wrapper/WebClientWrapper.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

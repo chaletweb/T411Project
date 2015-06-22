@@ -1,0 +1,7 @@
+C:\Users\Rico\documents\visual studio 2012\Projects\T411Api\T411Api\bin\AutoTest.Net\_tmpIntermediateAT\T411.Api.csprojResolveAssemblyReference.cache
+C:\Users\Rico\documents\visual studio 2012\Projects\T411Api\T411Api\bin\AutoTest.Net\_tmpIntermediateAT\T411.Api.dll
+C:\Users\Rico\documents\visual studio 2012\Projects\T411Api\T411Api\bin\AutoTest.Net\_tmpIntermediateAT\T411.Api.pdb
+C:\Users\Rico\documents\visual studio 2012\Projects\T411Api\T411Api\bin\AutoTest.Net\T411.Api.dll
+C:\Users\Rico\documents\visual studio 2012\Projects\T411Api\T411Api\bin\AutoTest.Net\T411.Api.pdb
+C:\Users\Rico\documents\visual studio 2012\Projects\T411Api\T411Api\bin\AutoTest.Net\nunit.framework.dll
+C:\Users\Rico\documents\visual studio 2012\Projects\T411Api\T411Api\bin\AutoTest.Net\nunit.framework.xml

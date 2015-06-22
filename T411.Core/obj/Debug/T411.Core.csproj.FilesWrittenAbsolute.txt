@@ -1,0 +1,7 @@
+/Users/Eric/Projects/T411Project/T411.Core/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Eric/Projects/T411Project/T411.Core/bin/Debug/T411.Api.dll.mdb
+/Users/Eric/Projects/T411Project/T411.Core/bin/Debug/T411.Api.dll
+/Users/Eric/Projects/T411Project/T411.Core/obj/Debug/T411.Api.dll
+/Users/Eric/Projects/T411Project/T411.Core/obj/Debug/T411.Api.dll.mdb
+/Users/Eric/Projects/T411Project/T411.Core/bin/Debug/nunit.framework.dll
+/Users/Eric/Projects/T411Project/T411.Core/bin/Debug/Newtonsoft.Json.dll

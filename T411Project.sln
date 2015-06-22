@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T411.Core.Test", "T411.Core.Test\T411.Core.Test.csproj", "{7E4057AC-D7EE-403B-8715-32837705D839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T411.Core", "T411.Core\T411.Core.csproj", "{63824371-1930-4011-B261-0F79D5F3E7FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T411.GtkWin", "T411.GtkWin\T411.GtkWin.csproj", "{FAE7476A-CA35-4FA1-9FCA-ECDDF25A4531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63824371-1930-4011-B261-0F79D5F3E7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63824371-1930-4011-B261-0F79D5F3E7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63824371-1930-4011-B261-0F79D5F3E7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63824371-1930-4011-B261-0F79D5F3E7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4057AC-D7EE-403B-8715-32837705D839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4057AC-D7EE-403B-8715-32837705D839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4057AC-D7EE-403B-8715-32837705D839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4057AC-D7EE-403B-8715-32837705D839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAE7476A-CA35-4FA1-9FCA-ECDDF25A4531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE7476A-CA35-4FA1-9FCA-ECDDF25A4531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE7476A-CA35-4FA1-9FCA-ECDDF25A4531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE7476A-CA35-4FA1-9FCA-ECDDF25A4531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

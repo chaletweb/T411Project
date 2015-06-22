@@ -1,0 +1,32 @@
+﻿<Properties StartupItem="T411.GtkWin/T411.GtkWin.csproj" MonoDevelop.MonoMac.LastXamMacNagTime="19/06/2015 17:49:25">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="T411.GtkWin/MainWindow.cs">
+    <Files>
+      <File FileName="T411.GtkWin/Program.cs" Line="1" Column="1" />
+      <File FileName="T411.GtkWin/MainWindow.cs" Line="18" Column="62" />
+      <File FileName="T411.GtkWin/DataView/TorrentTreeNode.cs" Line="19" Column="3" />
+      <File FileName="T411.GtkWin/DataView/TorrentNodeStore.cs" Line="22" Column="1" />
+      <File FileName="T411.Core.Test/ApiConnectorTest.cs" Line="1" Column="1" />
+      <File FileName="T411.Core/ApiAdaptor/ApiConnector.cs" Line="1" Column="1" />
+      <File FileName="T411.Core/ApiAdaptor/JsonAdapter.cs" Line="1" Column="1" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/Versions/4.0.1/lib/mono/4.5/Microsoft.Common.targets" Line="1" Column="1" />
+      <File FileName="T411.Core/ApiAdaptor/IAuthorization.cs" Line="1" Column="1" />
+      <File FileName="T411.GtkWin/gtk-gui/MainWindow.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Eric/Projects/T411.Core.Test/Test.cs" line="13" column="1" />
+      <Breakpoint file="/Users/Eric/Projects/T411.Core.Test/Token.cs" line="22" column="1" />
+      <Breakpoint file="/Users/Eric/Projects/T411.Core.Test/Authorization.cs" line="22" column="1" />
+      <Breakpoint file="/Users/Eric/Projects/T411Api/T411Api/JsonAdapter.cs" line="17" column="1" />
+      <Breakpoint file="/Users/Eric/Projects/T411.Core.Test/ApiConnectorTest.cs" line="24" column="4" />
+      <Breakpoint file="/Users/Eric/Projects/T411.Core.Test/ApiConnectorTest.cs" line="31" column="1" />
+      <Breakpoint file="/Users/Eric/Projects/T411Project/T411.Core.Test/ApiConnectorTest.cs" line="44" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>../T411Api/T411.Win/T411.Win.csproj</String>
+  </DisabledProjects>
+</Properties>
